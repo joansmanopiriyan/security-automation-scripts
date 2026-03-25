@@ -24,3 +24,14 @@ This project supports my practice in:
 - Reconnaissance automation
 - HTTP response analysis
 - Python scripting for security workflows
+
+### Directory Exposure Checker
+
+This script scans a target website for commonly exposed directories such as:
+
+- /admin
+- /backup
+- /uploads
+- /logs
+
+Useful during early-stage reconnaissance in web application security testing.
