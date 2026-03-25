@@ -1,2 +1,26 @@
-# security-automation-scripts
-Beginner-friendly Python scripts for web security checks and reconnaissance automation.
+# Security Automation Scripts
+
+This repository contains beginner-friendly Python automation scripts created during my web security learning journey.
+
+## Script Included
+
+### HTTP Security Headers Checker
+
+This script checks whether important security headers are present on target websites:
+
+- X-Frame-Options
+- Content-Security-Policy
+- Strict-Transport-Security
+- X-Content-Type-Options
+- Referrer-Policy
+
+These headers help protect applications from attacks like clickjacking, MIME sniffing, and insecure transport risks.
+
+## Purpose
+
+This project supports my practice in:
+
+- Web security fundamentals
+- Reconnaissance automation
+- HTTP response analysis
+- Python scripting for security workflows
