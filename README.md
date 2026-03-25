@@ -16,7 +16,7 @@ This script checks whether important security headers are present on target webs
 
 These headers help protect applications from attacks like clickjacking, MIME sniffing, and insecure transport risks.
 
-## Purpose
+### Purpose
 
 This project supports my practice in:
 
@@ -35,3 +35,7 @@ This script scans a target website for commonly exposed directories such as:
 - /logs
 
 Useful during early-stage reconnaissance in web application security testing.
+
+### robots.txt Parser
+
+This script checks whether a target website exposes a robots.txt file and extracts hidden or restricted paths useful during reconnaissance.
