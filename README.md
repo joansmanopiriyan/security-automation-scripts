@@ -39,3 +39,7 @@ Useful during early-stage reconnaissance in web application security testing.
 ### robots.txt Parser
 
 This script checks whether a target website exposes a robots.txt file and extracts hidden or restricted paths useful during reconnaissance.
+
+### Security Headers Checker (Bash)
+
+This script checks whether important HTTP security headers are configured on a target website using curl. Useful during initial reconnaissance and security assessment workflows.
